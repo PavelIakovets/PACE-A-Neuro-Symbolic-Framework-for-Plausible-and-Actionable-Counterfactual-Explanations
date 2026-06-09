@@ -100,7 +100,7 @@ PACE/
 ├── README.md
 │
 ├── notebooks/
-│   └── neuro_symbolic_counterfactuals.ipynb
+│   └── neurosymbolic_counterfactuals.ipynb
 │
 ├── asp/
 │   ├── rules.asp
