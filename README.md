@@ -115,7 +115,7 @@ PACE/
 
 ## Validity and Plausibility Comparison
 
-![Validity and Plausibility](Validity.png)
+![Validity and Plausibility](results/Validity.png)
 
 The ASP-guided approach achieves perfect plausibility while maintaining competitive validity.
 
@@ -123,7 +123,7 @@ The ASP-guided approach achieves perfect plausibility while maintaining competit
 
 ## Minimality Comparison
 
-![Minimality](Minimality.png)
+![Minimality](results/Minimality.png)
 
 ASP-generated explanations require fewer feature modifications on average.
 
@@ -131,7 +131,7 @@ ASP-generated explanations require fewer feature modifications on average.
 
 ## Probability Movement Analysis
 
-![Probability Movement](movement.png)
+![Probability Movement](results/movement.png)
 
 The symbolic constraints guide the search toward realistic and feasible solutions.
 
@@ -139,7 +139,7 @@ The symbolic constraints guide the search toward realistic and feasible solution
 
 ## Feature Modification Frequency
 
-![Feature Frequency](frequency.png)
+![Feature Frequency](results/frequency.png)
 
 Feature modification patterns reveal how symbolic constraints influence explanation generation.
 
