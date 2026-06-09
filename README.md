@@ -6,6 +6,7 @@ Framework combines:
 - Domain constraints and plausibility rules.
 
 Research Objective
+
 Objective of this project is to investigate whether neuro-symbolic reasoning can improve the quality of counterfactual explanations by enforcing:
 - plausibility;
 - feasibility;
@@ -13,6 +14,7 @@ Objective of this project is to investigate whether neuro-symbolic reasoning can
 - consistency with domain knowledge.
 
 Methodology
+
 The framework consists of four stages:
 - Data preprocessing
 - Neural network training (MLP classifier)
@@ -20,6 +22,7 @@ The framework consists of four stages:
 - Counterfactual validation and evaluation
 
 Results
+
 Experimental evaluation demonstrates that the ASP-based approach generates counterfactual explanations that are more plausible and actionable compared to unconstrained methods.
 
 Authors
