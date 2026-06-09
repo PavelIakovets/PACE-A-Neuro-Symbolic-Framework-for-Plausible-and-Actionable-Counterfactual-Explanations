@@ -77,7 +77,7 @@ vs
 Income ≤ 50K USD
 ```
 
-Selected editablefeatures:
+Selected editable features:
 
 - Education
 - Occupation
@@ -187,3 +187,9 @@ Austria
 This repository is intended for educational and research purposes.
 
 ---
+# Citation
+@misc{iakovetspavel,
+  title={PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations},
+  author={Iakovets, Pavel},
+  year={2026}
+}
