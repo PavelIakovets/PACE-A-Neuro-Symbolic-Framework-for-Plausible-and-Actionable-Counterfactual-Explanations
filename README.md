@@ -1,2 +1,6 @@
 # PACE-A-Neuro-Symbolic-Framework-for-Plausible-and-Actionable-Counterfactual-Explanations
-The framework separates prediction and reasoning into two complementary components: a neural predictive model responsible for classification and a symbolic reasoning layer responsible for enforcing domain-specific feasibility constraints during counterfactual search.
+PACE (Plausible and Actionable Counterfactual Explanations) is a neuro-symbolic framework designed to generate realistic, feasible, and actionable counterfactual explanations for machine learning classifiers.
+Framework combines:
+- Neural network classification
+- Symbolic reasoning using Answer Set Programming (ASP)
+- Domain constraints and plausibility rules
